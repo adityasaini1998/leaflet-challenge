@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "L": "readonly",
+    "d3": "readonly",
+    "API_KEY": "writable"
+  }
+}
+
