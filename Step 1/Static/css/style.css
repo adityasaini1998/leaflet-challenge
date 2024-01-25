@@ -1,0 +1,32 @@
+html, body, #map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.legend-box {
+  background-color: #fff;
+  border-radius: 5px;
+  color: #555;
+  line-height: 18px;
+  padding: 10px;
+}
+
+.legend-icon {
+  float: left;
+  height: 18px;
+  margin-right: 8px;
+  opacity: 0.7;
+  width: 18px;
+}
+
+.leaflet-bottom-left {
+  width: 90%;
+}
+
+.leaflet-controls-container .leaflet-timeline-slider {
+  box-sizing: border-box;
+  margin: 0 0 15px 0;
+  width: 100%;
+}
